@@ -5,7 +5,7 @@ Random walks → diffusion (Fick’s law) → GBM option pricing → empirical r
 ## What this project does
 This project connects stochastic processes to real modeling tasks:
 - **Physics:** shows how random walks lead to diffusion and relates to **Fick’s law**
-- **Finance:** simulates **GBM** and prices European options via **Monte Carlo**, validated against **Black–Scholes**
+- **Finance:** simulates **GBM** (geometric brownian motion) and prices European options via **Monte Carlo**, validated against **Black–Scholes**
 - **Empirics:** compares **real asset return behavior** to GBM assumptions (distribution + volatility behavior)
 
 ## Contents
